@@ -2,8 +2,6 @@
 
 A modern and responsive task management web application that allows users to add, edit, delete, and reorder tasks using a drag-and-drop interface. Tasks are categorized into **To-Do, In Progress, and Done**, and all changes are saved instantly to the database for real-time synchronization.
 
-## 🚀 Live Demo
-🔗 [Live App](https://task-management0.web.app)
 
 
 
@@ -74,10 +72,5 @@ FIREBASE_API_KEY=your_firebase_api_key
 - 🏷 Task Due Dates with Overdue Indicators
 - 📊 Activity Log (Track task updates)
 
-## 📄 License
-This project is licensed under the **MIT License**.
 
----
-
-🎯 Built with ❤️ by **[Nahid Hasan](https://github.com/nahidn228)**
 
